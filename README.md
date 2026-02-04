@@ -1,4 +1,3 @@
-
 <html lang="en" translate="no">
 <head>
     <meta charset="UTF-8">
@@ -1415,35 +1414,35 @@
                 <div class="learning-point">
                     <h4 style="color: #1a252f;" class="notranslate">1️⃣ Personal Pronouns (Subject Pronouns)</h4>
                     <p style="color: var(--dark);" class="notranslate">
-                        Through this project, I mastered personal pronouns <strong>(I, you, he, she, it, we, they)</strong> which replace the subject of a sentence and represent the person or thing performing the action. These pronouns are essential for avoiding repetition and making communication more natural. For example: "She is my best friend at school" - where "She" acts as the subject performing the action of "being."
+                        Through this project, I mastered personal pronouns <strong>(I, you, he, she, it, we, they)</strong> which replace the subject of a sentence and represent the person or thing performing the action. These pronouns are essential for avoiding repetition and making communication more natural. For example: "She is my best friend at school" - where "She" acts as the subject performing the action of "being."(Eastwood, 2002).
                     </p>
                 </div>
 
                 <div class="learning-point">
                     <h4 style="color: #1a252f;" class="notranslate">2️⃣ Possessive Pronouns</h4>
                     <p style="color: var(--dark);" class="notranslate">
-                        I learned that possessive pronouns <strong>(my, your, his, her, its, our, their, mine, yours, hers, ours, theirs)</strong> show ownership and eliminate the need to repeat nouns. I discovered the crucial distinction between possessive adjectives used with nouns (my book, your house) and possessive pronouns that stand alone (the book is mine, the house is yours). This understanding is fundamental for proper English usage and helps create more elegant, concise sentences.
+                        I learned that possessive pronouns <strong>(my, your, his, her, its, our, their, mine, yours, hers, ours, theirs)</strong> show ownership and eliminate the need to repeat nouns (Murphy, 2019). I discovered the crucial distinction between possessive adjectives used with nouns (my book, your house) and possessive pronouns that stand alone (the book is mine, the house is yours). This understanding is fundamental for proper English usage and helps create more elegant, concise sentences (Eastwood, 2002).
                     </p>
                 </div>
 
                 <div class="learning-point">
                     <h4 style="color: #1a252f;" class="notranslate">3️⃣ Object Pronouns</h4>
                     <p style="color: var(--dark);" class="notranslate">
-                        Object pronouns <strong>(me, you, him, her, it, us, them)</strong> receive the action in a sentence or follow prepositions. Through practical examples like "I bought a gift for him," I understood that these pronouns come after verbs or prepositions. This knowledge helps me construct grammatically correct sentences and understand the flow of English grammar, particularly in identifying who or what receives an action.
+                        Object pronouns <strong>(me, you, him, her, it, us, them)</strong> receive the action in a sentence or follow prepositions. Through practical examples like "I bought a gift for him," I understood that these pronouns come after verbs or prepositions (Swan, 2016). This knowledge helps me construct grammatically correct sentences and understand the flow of English grammar, particularly in identifying who or what receives an action (Eastwood, 2002).
                     </p>
                 </div>
 
                 <div class="learning-point">
                     <h4 style="color: #1a252f;" class="notranslate">4️⃣ Interactive Learning Through Gamification</h4>
                     <p style="color: var(--dark);" class="notranslate">
-                        Creating this interactive memory game transformed abstract grammar rules into contextualized, real-world applications. By designing sentences about school, friends, family, and daily activities, I practiced pronouns in authentic situations rather than memorizing isolated rules. This hands-on, gamified approach made learning engaging, memorable, and significantly more effective than traditional study methods.
+                        Creating this interactive memory game transformed abstract grammar rules into contextualized, real-world applications. By designing sentences about school, friends, family, and daily activities, I practiced pronouns in authentic situations rather than memorizing isolated rules. This hands-on, gamified approach made learning engaging, memorable, and significantly more effective than traditional study methods (Kapp, 2012).
                     </p>
                 </div>
 
                 <div class="learning-point">
                     <h4 style="color: #1a252f;" class="notranslate">5️⃣ Visual Learning & Color-Coding Strategy</h4>
                     <p style="color: var(--dark);" class="notranslate">
-                        The implementation of a color-coding system (Red for Personal, Green for Possessive, Blue for Object pronouns) enhanced my ability to quickly identify and categorize pronouns. This multi-sensory approach, combining visual, auditory (sound effects), and kinesthetic (card interaction) learning styles, reinforced grammatical concepts through multiple pathways, resulting in deeper comprehension and longer retention.
+                        The implementation of a color-coding system (Red for Personal, Green for Possessive, Blue for Object pronouns) enhanced my ability to quickly identify and categorize pronouns. This multi-sensory approach, combining visual, auditory (sound effects), and kinesthetic (card interaction) learning styles, reinforced grammatical concepts through multiple pathways, resulting in deeper comprehension and longer retention (Paivio, 1991).
                     </p>
                 </div>
             </div>
@@ -1456,13 +1455,13 @@
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>1.</strong> Escobar-Álvarez, M. Á. (Coord.). (2020). <em>Curso de inglés para adultos</em> (pp. 24-30). UNED - Universidad Nacional de Educación a Distancia.
+                        <strong>1.</strong> Deterding, S. D. (20 de enero de 2026). From Game Design Elements to Gamefulness: Defining . Obtenido de From Game Design Elements to Gamefulness: Defining https://www.researchgate.net/publication/230854710_From_Game_Design_Elements_to_Gamefulness_Defining_Gamification
                     </p>
                 </div>
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>2.</strong> Santiesteban-Naranjo, E. (2024). <em>Sharpening up your Vocabulary: A Practical Guide for English as a Foreign Language Learner</em> (pp. 5-12). Editorial Tecnocientífica Americana.
+                        <strong>2.</strong> Eastwood. (15 de junio de 2002). Oxford University Press. Obtenido de Oxford practice grammar: Intermediate: https://sbcatarman.wordpress.com/wp-content/uploads/2024/06/oxford_guide_to_english_grammar.pdf
                     </p>
                 </div>
 
@@ -1474,7 +1473,7 @@
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>4.</strong> Pérez-Morales, J. I. (Comp.). (2021). <em>Using Information and Communication Technologies (ICT) in the Teaching and Learning Process of English as a Foreign Language</em> (pp. 17-25). Editorial Feijóo.
+                        <strong>4.</strong> Fleming, N. D. (13 de agosto de 1992). (PDF) Not Another Inventory, Rather a Catalyst for Reflection. Obtenido de (PDF) Not Another Inventory, Rather a Catalyst for Reflection: https://www.academia.edu/291884/Not_Another_Inventory_Rather_a_Catalyst_for_Reflection
                     </p>
                 </div>
 
@@ -1486,7 +1485,7 @@
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>6.</strong> Careerspace - Trent University. (2022). <em>Career and workforce readiness</em>. Trent University.
+                        <strong>6.</strong> Kapp, K. M. (1 de mayo de 2012). The Gamification of Learning and Instruction: Game-based ... Obtenido de The Gamification of Learning and Instruction: Game-based ...: https://books.google.com.co/books/about/The_Gamification_of_Learning_and_Instruc.html?id=M2Rb9ZtFxccC&redir_esc=y.
                     </p>
                 </div>
             </div>
