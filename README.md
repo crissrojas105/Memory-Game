@@ -1455,13 +1455,19 @@
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>1.</strong> Deterding, S. D. (20 de enero de 2026). From Game Design Elements to Gamefulness: Defining . Obtenido de From Game Design Elements to Gamefulness: Defining https://www.researchgate.net/publication/230854710_From_Game_Design_Elements_to_Gamefulness_Defining_Gamification
+                        <strong>1.</strong> Deterding, S. D. (20 de enero de 2026). From Game Design Elements to Gamefulness: Defining . Obtenido de From Game Design Elements to Gamefulness: Defining  https://www.researchgate.net
+                      /publication/230854710_From_Game_
+                      Design_Elements_to_Gamefulness_
+                      Defining_Gamification
                     </p>
                 </div>
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>2.</strong> Eastwood. (15 de junio de 2002). Oxford University Press. Obtenido de Oxford practice grammar: Intermediate: https://sbcatarman.wordpress.com/wp-content/uploads/2024/06/oxford_guide_to_english_grammar.pdf
+                        <strong>2.</strong> Eastwood. (15 de junio de 2002). Oxford University Press. Obtenido de Oxford practice grammar: Intermediate: https://sbcatarman.wordpress.com/
+                      wp-content/uploads/2024/06/
+                      oxford_guide_to_english_
+                      grammar.pdf
                     </p>
                 </div>
 
@@ -1473,19 +1479,24 @@
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>4.</strong> Fleming, N. D. (13 de agosto de 1992). (PDF) Not Another Inventory, Rather a Catalyst for Reflection. Obtenido de (PDF) Not Another Inventory, Rather a Catalyst for Reflection: https://www.academia.edu/291884/Not_Another_Inventory_Rather_a_Catalyst_for_Reflection
+                        <strong>4.</strong> Pérez-Morales, J. I. (Comp.). (2021). <em>Using Information and Communication Technologies (ICT) in the Teaching and Learning Process of English as a Foreign Language</em> (pp. 17-25). Editorial Feijóo.
                     </p>
                 </div>
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>5.</strong> Muñoz-Ortiz, F. (2020). <em>Inglés B2</em> (pp. 114-118). Editorial Tutor Formación.
+                        <strong>5.</strong> Kapp, K. M. (1 de mayo de 2012). The Gamification of Learning and Instruction: Game-based ... Obtenido de The Gamification of Learning and Instruction: Game-based https://books.google.com.co/
+                      books/about/The_Gamification_
+                      of_Learning_and_Instruc
+                      .html?id=M2Rb9ZtFxccC&redir_esc=y
                     </p>
                 </div>
 
                 <div class="reference-item">
                     <p class="notranslate">
-                        <strong>6.</strong> Kapp, K. M. (1 de mayo de 2012). The Gamification of Learning and Instruction: Game-based ... Obtenido de The Gamification of Learning and Instruction: Game-based ...: https://books.google.com.co/books/about/The_Gamification_of_Learning_and_Instruc.html?id=M2Rb9ZtFxccC&redir_esc=y.
+                        <strong>6.</strong> Fleming, N. D. (13 de agosto de 1992). (PDF) Not Another Inventory, Rather a Catalyst for Reflection. Obtenido de (PDF) Not Another Inventory, Rather a Catalyst for Reflection: https://www.academia.edu/291884/
+                      Not_Another_Inventory_
+                      Rather_a_Catalyst_for_Reflection
                     </p>
                 </div>
             </div>
